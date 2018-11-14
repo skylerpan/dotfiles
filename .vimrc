@@ -9,7 +9,7 @@ set fileencodings=utf-8,cp950
  set shiftwidth=4 " 設定縮排寬度 = 4 
  set tabstop=4    " tab 的字元數
  set softtabstop=4
- set expandtab   " 用 space 代替 tab
+" set expandtab   " 用 space 代替 tab
 
 " set t_Co=256     " 支援256色
 
